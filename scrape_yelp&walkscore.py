@@ -184,7 +184,7 @@ def main():
     get_grocery()
 
 
-    df.to_csv("yelp_res.csv")
+    df.to_csv("yelp&walkscore_information.csv")
 
 
 if __name__ == '__main__':
